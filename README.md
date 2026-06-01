@@ -1,4 +1,4 @@
-# SecToolkit
+# Toolkit
 
 A lightweight Python toolkit for network reconnaissance and service enumeration.
 
